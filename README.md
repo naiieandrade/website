@@ -20,7 +20,7 @@ $ sudo pip3 install virtualenv
 
 Criar ambiente virtual 
 ``` console
-python3 -m venv myenv
+$ python3 -m venv myenv
 ```
 >você pode usar qualquer nome em vez de **myenv**
 
@@ -32,7 +32,7 @@ $ source myvenv/bin/activate
 Instalar _requirements.txt_
 
 ```console
-(myvenv)$ pip install -r requirements.txt
+(myvenv) $ pip install -r requirements.txt
 ```
 
 ``` console
